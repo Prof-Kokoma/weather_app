@@ -1,7 +1,9 @@
 # Weather App
 This is a Weather App built using Flutter that provides users with up-to-date weather information for their location or any location of their choice by connecting to a weather API.
 
-App Screenshot
+### App Screenshot
+![image](https://github.com/Prof-Kokoma/weather_app/assets/59128052/045950a9-cb2b-4929-b9ed-cb750004b82a)
+
 
 ## Overview
 The Weather App is a handy tool for checking the current weather conditions and forecasts. Users can enter a city name or enable location services to get real-time weather information for their current location. The app also offers additional features such as viewing weather maps, saving favorite locations, and receiving weather alerts.
