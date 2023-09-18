@@ -25,7 +25,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Prof-Kokoma/weather-app.git
 Navigate to the project directory:
 
 bash
@@ -38,33 +38,6 @@ Copy code
 flutter pub get
 Running the App
 Run the app on an emulator or physical device:
-
-bash
-Copy code
-flutter run
-Usage
-Location-Based Weather: On the home screen, tap the location icon to detect your current location's weather.
-Search for Weather: Enter a city name in the search bar to get weather information for that location.
-View Weather Details: Tap on a location card to view detailed weather information, including forecasts.
-Weather Maps: Access weather maps and radar from the sidebar menu.
-Favorite Locations: Save locations to your favorites list for quick access.
-Weather Alerts: Receive notifications for severe weather conditions.
-API Integration
-The app connects to a weather API to fetch real-time weather data. You can find the API integration logic in the lib/data/weather_api.dart file. Make sure to replace the API key with your own key if required.
-
-dart
-Copy code
-const apiKey = 'your_api_key_here';
-Contributing
-If you'd like to contribute to this project, please follow these guidelines:
-
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name
-Make your changes and commit them: git commit -m "Add new feature"
-Push your changes to your fork: git push origin feature/your-feature-name
-Create a pull request to the main branch of the original repository.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
 Thank you to the Flutter community for providing valuable resources and plugins.
